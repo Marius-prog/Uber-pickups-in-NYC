@@ -7,3 +7,5 @@ To run the application
 3. run: pip install -r requirements.txt
 4. run: streamlit run main.py
 
+
+link: https://share.streamlit.io/marius-prog/uber-pickups-in-nyc/main/main.py
